@@ -1,6 +1,5 @@
 # DeepLearningProjects
 
-# Machine Learning Projects
 This library contains various scripts useful for running machine learning projects, including performing hyperparameter optimization and k-fold cross validation while storing results with WandB. Some work is currently under development.
 
 **Author's Note:** Some projects associated with the Master's Thesis are published on Google Scholar. https://scholar.google.com/citations?user=SJCymuoAAAAJ&hl=en

@@ -1,0 +1,401 @@
+SiteID,SubjectID,SubjectStatus,EnrollmentDate,Cohort
+1,1,Enrolled,2010-10-20,Lung Cancer
+1,2,Discontinued,2011-03-27,Lung Cancer
+1,3,Enrolled,2011-05-20,Pancreatic Cancer
+1,4,Enrolled,2011-11-03,Control
+1,5,Enrolled,2011-11-09,Control
+1,6,Discontinued,2011-12-24,Lung Cancer
+1,7,Enrolled,2011-12-31,Control
+1,8,Enrolled,2012-12-09,Lung Cancer
+1,9,Enrolled,2013-01-06,Lung Cancer
+1,10,Discontinued,2013-02-10,Control
+1,11,Discontinued,2013-03-06,Control
+1,12,Enrolled,2013-07-20,Pancreatic Cancer
+1,13,Enrolled,2013-08-30,Control
+1,14,Enrolled,2013-11-20,Lung Cancer
+1,15,Enrolled,2013-12-07,Control
+1,16,Enrolled,2014-04-23,Control
+1,17,Enrolled,2014-06-01,Lung Cancer
+1,18,Enrolled,2015-01-25,Lung Cancer
+1,19,Enrolled,2015-05-03,Control
+1,20,Enrolled,2015-05-11,Lung Cancer
+1,21,Enrolled,2015-05-12,Control
+2,1,Discontinued,2010-11-22,Pancreatic Cancer
+2,2,Enrolled,2011-01-28,Control
+2,3,Enrolled,2011-04-14,Lung Cancer
+2,4,Enrolled,2011-07-13,Lung Cancer
+2,5,Enrolled,2011-08-09,Lung Cancer
+2,6,Enrolled,2011-10-11,Lung Cancer
+2,7,Enrolled,2012-06-23,Pancreatic Cancer
+2,8,Enrolled,2012-11-11,Liver Cancer
+2,9,Discontinued,2013-04-21,Control
+2,10,Enrolled,2013-05-22,Control
+2,11,Enrolled,2013-07-04,Control
+2,12,Enrolled,2013-07-22,Lung Cancer
+2,13,Discontinued,2013-07-30,Lung Cancer
+2,14,Enrolled,2013-10-03,Control
+2,15,Enrolled,2014-01-22,Control
+2,16,Enrolled,2014-05-07,Control
+2,17,Enrolled,2014-05-22,Lung Cancer
+2,18,Enrolled,2014-10-03,Lung Cancer
+3,1,Enrolled,2010-08-26,Lung Cancer
+3,2,Discontinued,2010-10-09,Lung Cancer
+3,3,Enrolled,2011-01-19,Control
+3,4,Enrolled,2011-03-27,Lung Cancer
+3,5,Enrolled,2011-04-12,Control
+3,6,Enrolled,2011-04-18,Control
+3,7,Enrolled,2011-06-08,Lung Cancer
+3,8,Enrolled,2011-06-20,Control
+3,9,Enrolled,2011-11-05,Control
+3,10,Enrolled,2012-05-08,Lung Cancer
+3,11,Enrolled,2012-06-29,Lung Cancer
+3,12,Enrolled,2012-08-19,Control
+3,13,Enrolled,2012-08-21,Lung Cancer
+3,14,Enrolled,2012-08-28,Control
+3,15,Discontinued,2012-11-09,Lung Cancer
+3,16,Discontinued,2013-01-07,Lung Cancer
+3,17,Enrolled,2013-04-06,Control
+3,18,Enrolled,2013-06-23,Liver Cancer
+3,19,Enrolled,2013-07-06,Control
+3,20,Enrolled,2013-08-31,Lung Cancer
+3,21,Enrolled,2014-01-09,Liver Cancer
+3,22,Enrolled,2014-01-29,Lung Cancer
+3,23,Enrolled,2014-04-24,Control
+3,24,Enrolled,2014-05-02,Lung Cancer
+3,25,Enrolled,2014-06-08,Lung Cancer
+3,26,Discontinued,2014-08-12,Control
+3,27,Enrolled,2015-02-16,Lung Cancer
+3,28,Enrolled,2015-02-24,Control
+3,29,Enrolled,2015-03-06,Lung Cancer
+3,30,Discontinued,2015-05-13,Lung Cancer
+3,31,Enrolled,2015-06-16,Control
+4,1,Enrolled,2010-07-05,Lung Cancer
+4,2,Enrolled,2010-08-22,Liver Cancer
+4,3,Enrolled,2010-10-31,Lung Cancer
+4,4,Enrolled,2010-12-16,Lung Cancer
+4,5,Enrolled,2010-12-18,Lung Cancer
+4,6,Discontinued,2010-12-22,Lung Cancer
+4,7,Enrolled,2011-01-08,Control
+4,8,Enrolled,2011-02-05,Control
+4,9,Enrolled,2011-02-17,Control
+4,10,Enrolled,2011-04-20,Control
+4,11,Enrolled,2011-05-26,Lung Cancer
+4,12,Enrolled,2011-06-11,Lung Cancer
+4,13,Enrolled,2011-06-15,Liver Cancer
+4,14,Enrolled,2011-06-29,Control
+4,15,Enrolled,2011-07-01,Control
+4,16,Enrolled,2011-08-24,Control
+4,17,Enrolled,2011-08-31,Lung Cancer
+4,18,Enrolled,2011-09-04,Pancreatic Cancer
+4,19,Enrolled,2011-10-04,Control
+4,20,Enrolled,2011-10-09,Pancreatic Cancer
+4,21,Enrolled,2011-11-18,Lung Cancer
+4,22,Enrolled,2011-11-26,Control
+4,23,Enrolled,2011-12-10,Control
+4,24,Enrolled,2011-12-22,Control
+4,25,Enrolled,2012-01-19,Lung Cancer
+4,26,Discontinued,2012-04-24,Pancreatic Cancer
+4,27,Enrolled,2012-04-25,Liver Cancer
+4,28,Enrolled,2012-05-24,Liver Cancer
+4,29,Enrolled,2012-06-03,Lung Cancer
+4,30,Enrolled,2012-06-03,Pancreatic Cancer
+4,31,Enrolled,2012-06-05,Control
+4,32,Enrolled,2012-07-01,Control
+4,33,Enrolled,2012-07-10,Control
+4,34,Enrolled,2012-08-27,Liver Cancer
+4,35,Enrolled,2012-09-10,Control
+4,36,Enrolled,2012-11-16,Control
+4,37,Enrolled,2012-12-25,Control
+4,38,Enrolled,2013-01-16,Control
+4,39,Enrolled,2013-02-12,Control
+4,40,Enrolled,2013-02-14,Control
+4,41,Enrolled,2013-05-06,Control
+4,42,Enrolled,2013-05-29,Lung Cancer
+4,43,Enrolled,2013-07-16,Control
+4,44,Enrolled,2013-07-29,Control
+4,45,Enrolled,2013-09-13,Lung Cancer
+4,46,Discontinued,2013-09-27,Control
+4,47,Discontinued,2013-11-29,Lung Cancer
+4,48,Enrolled,2014-02-12,Control
+4,49,Enrolled,2014-03-01,Control
+4,50,Enrolled,2014-04-08,Lung Cancer
+4,51,Enrolled,2014-04-10,Lung Cancer
+4,52,Enrolled,2014-04-26,Control
+4,53,Enrolled,2014-05-04,Lung Cancer
+4,54,Enrolled,2014-05-20,Control
+4,55,Enrolled,2014-08-15,Lung Cancer
+4,56,Enrolled,2014-10-23,Control
+4,57,Enrolled,2014-11-19,Liver Cancer
+4,58,Enrolled,2014-12-01,Control
+4,59,Enrolled,2015-01-01,Control
+4,60,Enrolled,2015-02-04,Control
+4,61,Enrolled,2015-02-11,Liver Cancer
+4,62,Discontinued,2015-02-27,Control
+4,63,Enrolled,2015-03-09,Pancreatic Cancer
+4,64,Enrolled,2015-03-31,Lung Cancer
+4,65,Enrolled,2015-04-29,Lung Cancer
+4,66,Discontinued,2015-05-18,Lung Cancer
+4,67,Enrolled,2015-05-23,Pancreatic Cancer
+4,68,Enrolled,2015-05-25,Liver Cancer
+4,69,Discontinued,2015-05-25,Lung Cancer
+5,1,Enrolled,2010-07-04,Lung Cancer
+5,2,Enrolled,2010-07-23,Control
+5,3,Enrolled,2010-07-27,Lung Cancer
+5,4,Enrolled,2010-09-09,Lung Cancer
+5,5,Enrolled,2010-10-16,Liver Cancer
+5,6,Enrolled,2010-12-31,Control
+5,7,Enrolled,2011-01-16,Control
+5,8,Discontinued,2011-02-06,Lung Cancer
+5,9,Enrolled,2011-02-18,Lung Cancer
+5,10,Enrolled,2011-03-12,Lung Cancer
+5,11,Enrolled,2011-03-30,Lung Cancer
+5,12,Enrolled,2011-06-07,Lung Cancer
+5,13,Enrolled,2011-07-25,Lung Cancer
+5,14,Enrolled,2011-08-30,Lung Cancer
+5,15,Discontinued,2011-09-15,Lung Cancer
+5,16,Discontinued,2011-10-13,Lung Cancer
+5,17,Enrolled,2011-10-24,Pancreatic Cancer
+5,18,Enrolled,2011-11-19,Control
+5,19,Enrolled,2011-12-15,Pancreatic Cancer
+5,20,Enrolled,2011-12-19,Control
+5,21,Enrolled,2012-01-03,Control
+5,22,Enrolled,2012-01-12,Lung Cancer
+5,23,Enrolled,2012-01-19,Control
+5,24,Enrolled,2012-01-23,Lung Cancer
+5,25,Enrolled,2012-03-11,Control
+5,26,Enrolled,2012-03-11,Pancreatic Cancer
+5,27,Enrolled,2012-03-12,Control
+5,28,Enrolled,2012-05-21,Control
+5,29,Enrolled,2012-05-28,Lung Cancer
+5,30,Enrolled,2012-05-28,Control
+5,31,Enrolled,2012-06-20,Control
+5,32,Enrolled,2012-06-27,Control
+5,33,Enrolled,2012-07-30,Control
+5,34,Discontinued,2012-08-01,Control
+5,35,Enrolled,2012-09-26,Lung Cancer
+5,36,Enrolled,2012-09-29,Control
+5,37,Discontinued,2012-10-22,Lung Cancer
+5,38,Enrolled,2012-11-05,Control
+5,39,Enrolled,2012-11-09,Control
+5,40,Enrolled,2012-11-20,Lung Cancer
+5,41,Enrolled,2012-11-24,Control
+5,42,Enrolled,2013-01-05,Pancreatic Cancer
+5,43,Discontinued,2013-01-05,Liver Cancer
+5,44,Enrolled,2013-02-01,Control
+5,45,Enrolled,2013-06-13,Control
+5,46,Enrolled,2013-07-23,Lung Cancer
+5,47,Enrolled,2013-09-26,Lung Cancer
+5,48,Enrolled,2013-11-01,Control
+5,49,Enrolled,2013-11-14,Control
+5,50,Enrolled,2013-12-17,Control
+5,51,Enrolled,2013-12-17,Pancreatic Cancer
+5,52,Enrolled,2014-01-18,Liver Cancer
+5,53,Discontinued,2014-01-21,Liver Cancer
+5,54,Enrolled,2014-01-28,Pancreatic Cancer
+5,55,Enrolled,2014-01-31,Pancreatic Cancer
+5,56,Enrolled,2014-02-01,Control
+5,57,Enrolled,2014-03-19,Control
+5,58,Enrolled,2014-04-20,Control
+5,59,Discontinued,2014-05-22,Control
+5,60,Enrolled,2014-06-17,Control
+5,61,Discontinued,2014-07-05,Pancreatic Cancer
+5,62,Enrolled,2014-07-10,Control
+5,63,Enrolled,2014-08-03,Control
+5,64,Enrolled,2014-08-06,Control
+5,65,Enrolled,2014-08-17,Control
+5,66,Enrolled,2014-08-31,Lung Cancer
+5,67,Enrolled,2014-09-17,Control
+5,68,Discontinued,2014-10-05,Lung Cancer
+5,69,Enrolled,2014-10-05,Lung Cancer
+5,70,Enrolled,2014-10-07,Control
+5,71,Enrolled,2014-10-14,Control
+5,72,Enrolled,2014-10-24,Pancreatic Cancer
+5,73,Enrolled,2014-11-06,Control
+5,74,Discontinued,2015-01-16,Lung Cancer
+5,75,Enrolled,2015-01-25,Lung Cancer
+5,76,Enrolled,2015-02-12,Control
+5,77,Enrolled,2015-02-18,Control
+5,78,Enrolled,2015-03-02,Control
+5,79,Enrolled,2015-03-16,Lung Cancer
+5,80,Enrolled,2015-04-01,Liver Cancer
+5,81,Enrolled,2015-04-14,Pancreatic Cancer
+6,1,Enrolled,2010-07-17,Lung Cancer
+6,2,Enrolled,2010-10-22,Lung Cancer
+6,3,Discontinued,2011-02-13,Lung Cancer
+6,4,Enrolled,2011-02-24,Control
+6,5,Enrolled,2011-02-28,Lung Cancer
+6,6,Enrolled,2011-09-12,Lung Cancer
+6,7,Enrolled,2012-01-27,Control
+6,8,Enrolled,2012-05-06,Lung Cancer
+6,9,Enrolled,2012-06-09,Control
+6,10,Discontinued,2012-07-25,Control
+6,11,Enrolled,2012-08-09,Liver Cancer
+6,12,Enrolled,2012-08-25,Control
+6,13,Enrolled,2012-10-10,Lung Cancer
+6,14,Enrolled,2012-10-17,Liver Cancer
+6,15,Enrolled,2012-12-11,Control
+6,16,Enrolled,2013-02-05,Liver Cancer
+6,17,Enrolled,2013-03-11,Lung Cancer
+6,18,Enrolled,2013-03-16,Control
+6,19,Enrolled,2013-04-06,Control
+6,20,Enrolled,2013-05-04,Control
+6,21,Enrolled,2013-06-05,Control
+6,22,Enrolled,2013-06-22,Lung Cancer
+6,23,Enrolled,2013-08-13,Control
+6,24,Enrolled,2014-03-10,Control
+6,25,Enrolled,2014-05-07,Control
+6,26,Enrolled,2014-08-26,Control
+6,27,Enrolled,2015-05-12,Control
+6,28,Enrolled,2015-05-30,Control
+7,1,Enrolled,2010-07-24,Lung Cancer
+7,2,Enrolled,2010-08-02,Liver Cancer
+7,3,Enrolled,2010-08-04,Control
+7,4,Enrolled,2011-01-30,Lung Cancer
+7,5,Enrolled,2012-03-23,Liver Cancer
+7,6,Enrolled,2012-08-07,Lung Cancer
+7,7,Discontinued,2012-10-14,Control
+7,8,Enrolled,2013-09-27,Pancreatic Cancer
+7,9,Enrolled,2013-09-29,Lung Cancer
+7,10,Enrolled,2013-12-13,Lung Cancer
+7,11,Enrolled,2013-12-29,Control
+7,12,Enrolled,2014-04-29,Control
+7,13,Enrolled,2014-08-16,Control
+7,14,Enrolled,2014-11-22,Lung Cancer
+7,15,Enrolled,2015-03-30,Pancreatic Cancer
+7,16,Enrolled,2015-06-09,Liver Cancer
+8,1,Enrolled,2010-07-12,Control
+8,2,Enrolled,2010-07-18,Lung Cancer
+8,3,Enrolled,2010-07-23,Pancreatic Cancer
+8,4,Enrolled,2010-08-11,Control
+8,5,Enrolled,2010-08-29,Lung Cancer
+8,6,Enrolled,2010-09-21,Control
+8,7,Enrolled,2010-10-30,Control
+8,8,Enrolled,2010-11-01,Lung Cancer
+8,9,Discontinued,2010-12-23,Lung Cancer
+8,10,Enrolled,2011-04-08,Control
+8,11,Enrolled,2011-06-03,Control
+8,12,Discontinued,2011-07-02,Control
+8,13,Enrolled,2011-07-06,Pancreatic Cancer
+8,14,Enrolled,2011-07-14,Control
+8,15,Enrolled,2011-09-06,Lung Cancer
+8,16,Enrolled,2011-10-09,Liver Cancer
+8,17,Enrolled,2011-10-31,Lung Cancer
+8,18,Enrolled,2011-12-28,Pancreatic Cancer
+8,19,Enrolled,2012-02-16,Control
+8,20,Enrolled,2012-03-17,Control
+8,21,Enrolled,2012-04-22,Control
+8,22,Enrolled,2012-05-17,Lung Cancer
+8,23,Enrolled,2012-07-06,Lung Cancer
+8,24,Enrolled,2012-07-09,Control
+8,25,Enrolled,2012-09-18,Liver Cancer
+8,26,Enrolled,2012-10-07,Control
+8,27,Enrolled,2013-01-28,Lung Cancer
+8,28,Enrolled,2013-05-19,Control
+8,29,Enrolled,2013-05-28,Control
+8,30,Enrolled,2013-09-04,Lung Cancer
+8,31,Enrolled,2013-09-13,Lung Cancer
+8,32,Enrolled,2013-09-18,Pancreatic Cancer
+8,33,Discontinued,2013-10-05,Control
+8,34,Enrolled,2013-11-25,Lung Cancer
+8,35,Enrolled,2013-12-06,Lung Cancer
+8,36,Enrolled,2014-01-28,Control
+8,37,Enrolled,2014-04-12,Control
+8,38,Enrolled,2014-07-27,Control
+8,39,Enrolled,2014-11-02,Control
+8,40,Enrolled,2015-01-12,Lung Cancer
+8,41,Enrolled,2015-03-02,Lung Cancer
+8,42,Enrolled,2015-03-28,Lung Cancer
+8,43,Enrolled,2015-06-04,Control
+8,44,Enrolled,2015-06-28,Control
+9,1,Enrolled,2010-07-11,Control
+9,2,Enrolled,2010-09-10,Lung Cancer
+9,3,Enrolled,2010-11-22,Control
+9,4,Enrolled,2010-12-07,Control
+9,5,Enrolled,2011-01-31,Lung Cancer
+9,6,Enrolled,2011-02-22,Control
+9,7,Enrolled,2011-04-11,Control
+9,8,Enrolled,2011-05-30,Pancreatic Cancer
+9,9,Enrolled,2011-06-06,Pancreatic Cancer
+9,10,Enrolled,2011-10-05,Control
+9,11,Enrolled,2011-10-14,Control
+9,12,Enrolled,2012-01-03,Control
+9,13,Enrolled,2012-03-14,Control
+9,14,Enrolled,2012-08-12,Control
+9,15,Discontinued,2012-08-25,Control
+9,16,Enrolled,2013-03-14,Control
+9,17,Enrolled,2013-05-04,Lung Cancer
+9,18,Enrolled,2013-06-06,Lung Cancer
+9,19,Enrolled,2013-08-24,Lung Cancer
+9,20,Enrolled,2013-08-25,Lung Cancer
+9,21,Enrolled,2013-09-18,Lung Cancer
+9,22,Enrolled,2013-11-11,Control
+9,23,Enrolled,2013-12-14,Control
+9,24,Enrolled,2014-04-13,Lung Cancer
+9,25,Enrolled,2014-05-18,Lung Cancer
+9,26,Enrolled,2014-06-01,Control
+9,27,Enrolled,2014-12-25,Control
+9,28,Enrolled,2015-01-18,Lung Cancer
+9,29,Enrolled,2015-05-19,Liver Cancer
+10,1,Enrolled,2010-07-18,Lung Cancer
+10,2,Enrolled,2010-07-23,Control
+10,3,Enrolled,2010-07-28,Lung Cancer
+10,4,Enrolled,2010-08-19,Control
+10,5,Enrolled,2010-09-13,Control
+10,6,Enrolled,2010-09-18,Control
+10,7,Enrolled,2010-09-21,Lung Cancer
+10,8,Enrolled,2010-12-01,Control
+10,9,Enrolled,2010-12-13,Lung Cancer
+10,10,Enrolled,2011-02-03,Control
+10,11,Enrolled,2011-04-25,Control
+10,12,Enrolled,2011-05-21,Control
+10,13,Enrolled,2011-05-28,Lung Cancer
+10,14,Enrolled,2011-06-01,Liver Cancer
+10,15,Enrolled,2011-06-04,Control
+10,16,Enrolled,2011-06-26,Lung Cancer
+10,17,Enrolled,2011-09-16,Control
+10,18,Enrolled,2011-12-09,Control
+10,19,Enrolled,2011-12-23,Pancreatic Cancer
+10,20,Discontinued,2011-12-28,Liver Cancer
+10,21,Enrolled,2012-01-03,Control
+10,22,Enrolled,2012-01-22,Pancreatic Cancer
+10,23,Enrolled,2012-04-23,Control
+10,24,Enrolled,2012-05-12,Control
+10,25,Enrolled,2012-07-15,Lung Cancer
+10,26,Enrolled,2012-08-27,Control
+10,27,Enrolled,2012-09-09,Control
+10,28,Enrolled,2012-09-20,Lung Cancer
+10,29,Enrolled,2012-10-27,Control
+10,30,Enrolled,2012-11-24,Control
+10,31,Enrolled,2013-02-05,Control
+10,32,Enrolled,2013-02-24,Control
+10,33,Enrolled,2013-03-01,Control
+10,34,Enrolled,2013-04-20,Lung Cancer
+10,35,Enrolled,2013-08-12,Control
+10,36,Enrolled,2013-08-15,Lung Cancer
+10,37,Enrolled,2013-09-06,Control
+10,38,Enrolled,2013-09-15,Liver Cancer
+10,39,Enrolled,2013-10-10,Control
+10,40,Enrolled,2013-11-05,Lung Cancer
+10,41,Enrolled,2013-11-23,Control
+10,42,Enrolled,2013-12-15,Control
+10,43,Enrolled,2014-02-15,Lung Cancer
+10,44,Enrolled,2014-03-29,Control
+10,45,Enrolled,2014-04-08,Control
+10,46,Enrolled,2014-05-04,Control
+10,47,Discontinued,2014-05-18,Control
+10,48,Enrolled,2014-06-13,Pancreatic Cancer
+10,49,Enrolled,2014-07-15,Liver Cancer
+10,50,Enrolled,2014-07-31,Lung Cancer
+10,51,Enrolled,2014-08-04,Liver Cancer
+10,52,Enrolled,2014-09-11,Control
+10,53,Enrolled,2014-09-23,Control
+10,54,Enrolled,2015-01-15,Lung Cancer
+10,55,Enrolled,2015-01-21,Control
+10,56,Enrolled,2015-03-13,Control
+10,57,Enrolled,2015-04-07,Lung Cancer
+10,58,Enrolled,2015-04-29,Control
+10,59,Enrolled,2015-05-10,Control
+10,60,Enrolled,2015-05-28,Control
+10,61,Discontinued,2015-05-29,Pancreatic Cancer
+10,62,Enrolled,2015-06-21,Lung Cancer
+10,63,Enrolled,2015-06-24,Control

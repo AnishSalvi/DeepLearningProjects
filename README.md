@@ -6,6 +6,9 @@ This library contains various scripts useful for running machine learning projec
 
 **Author Profile:** https://www.linkedin.com/in/anish-s-36179a97/
 
+## Optuna
+**Optuna Templates:** Several template scripts useful for preprocessing, training, inference, and optimization python files and notebooks
+
 ## Sweep Template for K-Fold Cross Validation & Hyperparameter Optimization with WandB
 **KCV_HP_Template:** A template script which can perform k-fold cross validation & hyperparameter optimization
 

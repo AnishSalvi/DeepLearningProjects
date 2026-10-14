@@ -42,7 +42,7 @@ This library contains various scripts useful for running machine learning projec
 ## Utilizing RetinaNet for Automatic Face Mask Detection and Real-Time Camera Performance
 **RetinaNet:** An automatic face mask detector which uses bounding boxes. The script is the one stop shop for data curation, model development, statistical benchmarking, and deployment on a local computer. 
 
-## Machine Learning & Image Processing Coding Interview Prompts
+## Machine Learning & Image Processing Coding Prompts
 **Coding_Questions:** A folder of various quick and simple machine learning scripts for practice. 
 
 
